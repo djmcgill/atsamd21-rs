@@ -1,3 +1,4 @@
+/*
 #![feature(used)]
 #![feature(proc_macro)]
 #![no_std]
@@ -89,3 +90,4 @@ fn init(mut p: init::Peripherals) -> init::LateResources {
         TIMER: tc3,
     }
 }
+*/

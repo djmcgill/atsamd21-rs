@@ -1,3 +1,4 @@
+/*
 #![feature(used)]
 #![feature(proc_macro)]
 #![no_std]
@@ -237,3 +238,4 @@ fn init(mut p: init::Peripherals /* , r: init::Resources */) -> init::LateResour
         FLASH: flash,
     }
 }
+*/
